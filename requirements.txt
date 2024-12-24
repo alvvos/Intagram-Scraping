@@ -1,0 +1,21 @@
+# requirements.txt
+
+# Selenium es necesario para la automatización del navegador
+selenium==4.20.0
+
+# Si planeas usar un navegador específico, asegúrate de tener el WebDriver correspondiente.
+# Por ejemplo, si usas Chrome, necesitarás ChromeDriver.
+# Puedes instalarlo manualmente o usar un paquete como webdriver-manager.
+
+# webdriver-manager facilita la gestión de WebDrivers
+webdriver-manager==3.8.5
+
+# Si deseas realizar análisis de datos o manipulación de datos, puedes incluir pandas
+pandas==1.5.3
+
+# Para manejar solicitudes HTTP, si es necesario
+requests==2.28.1
+
+# Si planeas realizar análisis de datos o visualización, puedes incluir matplotlib o seaborn
+# matplotlib==3.6.2
+# seaborn==0.12.2
