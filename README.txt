@@ -27,5 +27,6 @@ que buscan obtener información de Instagram para sus proyectos.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/instabot.git
+   git clone https://github.com/alvvos/Intagram-Scraping.git
    cd instabot
+   python3 ./Instabot.py
